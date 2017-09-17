@@ -1,5 +1,4 @@
 h1 {
-	background-color: blue;
 	color: white;
 	font-size: 50px;
 	text-align: center;
@@ -10,8 +9,10 @@ h3 {
 	text-align: center;
 }
 body {
-	margin: auto;
-	background: url("https://lh3.googleusercontent.com/lvFSNAesp2fb1oUsUX-ILcaGg_lZSkH5HUIwMUxVXKH0YTmHRpdw0bd1BZPjLAWMqqMXvButqibW4SWXSl07c_oZ8nZ825sPrW-ZcB36w8pgToKQ3W3-ry0eXlf3fCP0IFcQ34rkyXTNdmSumqQoAQnfkdv5MkD1utLvkLkS_zE5hCN03hYtlIiTOndWZXWYXbfh6A03ozau6Qoa7tAhxqvSRCXsp6GBaFtgztio9an3mQiZba-m8LH287g0sY7QArIW3NJmPFyLoSfy4CUKkjvjXpnyU8iElGsZRzbS1YODvGqjcJO8VJ_UaXgpMu9PwRcznRmUYjrVFKl74Qpu6ou4XQ5ObReWheHRvA2TkoEdJu7Z35aN_0hoSLZd2nWHyGTvSqPLCI6PSuiXqRlMkHNGHMup2Q0kNzzVBu1GfQmJc1KcQTGmpswZ5qSGFkbrntyAUtaseQtD5KIQ_cs0XLVWd0xyvooEVWgvCShb6FQGNC4sjAfN4ICODBV6kV-P6D-fiJ8hvrU27RwLvlFL_UBJn2lI8Gzh_MIVo563dCPwjERdP77tdaZl4WJihphPZIoJNRAHC4qeUW_Cq67xgPwjqthbpxpuVxQTikRcH81SAhn-Kj-D=s400-no");
+	margin: 10px;
+	font-size: 20px;
+	color: white;
+	background: url("http://wallpapers-library.com/images/mac-os-x-desktop-wallpaper/mac-os-x-desktop-wallpaper-21.jpg");
 
 }
 p {
@@ -23,3 +24,5 @@ p {
 #score {
 	text-align: center;
 }
+
+
