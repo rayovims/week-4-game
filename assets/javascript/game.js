@@ -18,10 +18,10 @@ var counter = 0;
 function reset() {
 $("#goal").html(randomNumber = Math.floor(Math.random() * 100)+1);
 counter = 0;
-ruby;
-diamond;
-pearl;
-emerald;
+ruby = Math.floor(Math.random() * 20)+1;
+diamond = Math.floor(Math.random() * 20)+1;
+pearl = Math.floor(Math.random() * 20)+1;
+emerald = Math.floor(Math.random() * 20)+1;
 $("#score").html("0");
 };
 
